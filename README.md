@@ -1,2 +1,2 @@
-# hellz-ya
-hellz yeah bitches
+# new project
+new project
